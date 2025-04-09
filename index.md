@@ -5,3 +5,6 @@
 ``` python
 print("Desafio GitHub4Women - GitHub Foundations!")
 ```
+- [x] Introduction to Github
+- [x] Manage your work with GitHub Projects
+- [ ] Communicate effectively on GitHub using Markdown
